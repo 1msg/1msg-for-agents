@@ -1,0 +1,4 @@
+interface:
+  display_name: "1MSG Integration"
+  short_description: "Build reliable WhatsApp integrations with 1MSG"
+  default_prompt: "Use $1msg-integration to plan and verify my WhatsApp integration through 1MSG."
